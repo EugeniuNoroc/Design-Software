@@ -1,3 +1,0 @@
-public enum Genre {
-    FICTION, SCIENCE, HISTORY, FANTASY, POETRY
-}
